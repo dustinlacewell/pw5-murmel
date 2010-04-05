@@ -1,0 +1,26 @@
+usage:
+
+builde.py filename w h
+
+if file exist it will be loaded for editing (files are save in data/levels
+
+
+1-8 tiles, 7 is exit tile, 9 coins, 0 circle
+
+asdw  move level around
+
+q/e rotate selected tile
+
+mouse: 
+
+click on tile to select and move around
+
+
+capslock enables/disables grid snapping (grid can be changed by mouse wheel)
+
+b moves the ball to the mouse pisition
+
+delete removes selected tile
+
+o saves the level
+p saves and start it
