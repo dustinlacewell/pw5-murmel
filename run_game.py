@@ -14,6 +14,6 @@ else:
 import header
 from states import *
 ##    from states import HugeRandomLevel
-app = engine.Engine(SplashState(), fullscreen=True)
+app = engine.Engine(SplashState(), fullscreen=False)
 ##    app = Engine(HugeRandomLevel)
 app.run()
